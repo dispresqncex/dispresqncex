@@ -1,5 +1,4 @@
-<p align="center">
-  
-![alt text](twili.jpg)
-</p>
+
+:![alt text](twili.jpg):
+
 okk wip 
