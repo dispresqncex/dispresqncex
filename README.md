@@ -16,7 +16,7 @@
      <img width="300" src="download.png">
 </p>
 <p align="center"> 
-𓂃	i love blinkies 𓂃
+𓂃	socially awkward  𓂃
 <br>
 <br>
 
