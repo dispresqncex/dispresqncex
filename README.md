@@ -32,5 +32,7 @@
 <img width="150" height="20" alt="image" src="lps.gif" />
 <img width="150" height="20" alt="image" src="shorkk.gif" />
 <img width="150" height="20" alt="image" src="swaggers.gif" />
-
+<img width="150" height="20" alt="image" src="madoka.gif" />
+<img width="150" height="20" alt="image" src="shut.png" />
+<img width="150" height="20" alt="image" src="lana.webp" />
 
