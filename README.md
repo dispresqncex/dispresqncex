@@ -4,10 +4,8 @@
 <br>
 <br>
 <p align="center">
-	<sub>'  if  my  absence  meant  this  little . .</sub>
+	<sub>"ㅤㅤi ㅤㅤhope ㅤㅤi ㅤㅤdie ㅤㅤwarmed ㅤㅤby ㅤㅤthe ㅤㅤlife ㅤㅤi ㅤㅤtried ㅤㅤto ㅤㅤlive ㅤㅤ"</sub>
 <br>
-     <br>
-	<sub>'  did  my  presence  ever  matter  ? '</sub>
 </p>
 <br>
 <br>
