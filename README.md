@@ -36,3 +36,7 @@
 <img width="150" height="40" alt="image" src="lana.webp" />
 <img width="150" height="40" alt="image" src="pika.gif" />
 
+<p align="center">
+     <img width="300" src="lol.jpg">
+</p>
+
